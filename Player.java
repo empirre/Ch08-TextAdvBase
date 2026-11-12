@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * Stores the player's current location and inventory.
  *
  * @Saba Machavariani
- * @version 1.0 04/13/26
+ * @version 1.0 11/11/2026
  */
 public class Player
 {
